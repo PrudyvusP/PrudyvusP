@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python and flask**
 
-- 📫 How to reach me **prudyvus.p@mail.ru**
+- 📫 How to reach me **[telegram @prudyvus_p](https://t.me/prudyvus_p)**
 
 - ⚡ Fun fact **took the 2nd place in the developer competition at my previous job with a simple flask application :)**
 
