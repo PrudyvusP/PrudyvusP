@@ -18,6 +18,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrudyvusP&theme=gruvbox" alt="profile-stats"></div>
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrudyvusP&theme=gruvbox&utcOffset=3" alt="working-times"></div>
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrudyvusP&theme=gruvbox" alt="profile-details"></div>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrudyvusP&theme=github" alt="profile-stats"></div>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrudyvusP&theme=github&utcOffset=3" alt="working-times"></div>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrudyvusP&theme=github" alt="profile-details"></div>
