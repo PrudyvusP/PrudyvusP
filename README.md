@@ -1,26 +1,23 @@
-<h1 align="center">Hi 👋, I'm Pavel Prudyvus</h1>
-<h3 align="center">A self-taught Python backend-developer</h3>
+<h1 align="center">Hi, I'm Pavel <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1>
+<h3 align="center">A self-taught backend-developer from Russia 🇷🇺</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prudyvusp&label=Profile%20views&color=0e75b6&style=flat" alt="prudyvusp" /> </p>
+<h3 align="center">Message me <a href=https://t.me/prudyvus_p>in Telegram</a></h3>
 
-- 🔭 I’m currently working on **CERT-ecosystem**
+<div align="right"><img src="https://komarev.com/ghpvc/?username=prudyvusp&label=Profile%20views&color=0e75b6&style=flat" alt="prudyvusp"/></div>
 
-- 🌱 I’m currently learning **algorithms and structures**
+<hr>
 
-- 👨‍💻 All of my projects are available at [https://github.com/PrudyvusP?tab=repositories](https://github.com/PrudyvusP?tab=repositories)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 💬 Ask me about **python and flask**
 
-- 📫 How to reach me **[telegram @prudyvus_p](https://t.me/prudyvus_p)**
-
-- ⚡ Fun fact **took the 2nd place in the developer competition at my previous job with a simple flask application :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/prudyvusp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prudyvusp" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prudyvusp&show_icons=true&locale=en&layout=compact" alt="prudyvusp" /></p>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrudyvusP&theme=gruvbox" alt="profile-stats"></div>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrudyvusP&theme=gruvbox&utcOffset=3" alt="working-times"></div>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrudyvusP&theme=gruvbox" alt="profile-details"></div>
