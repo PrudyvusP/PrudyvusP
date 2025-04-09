@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pavel <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1>
-<h3 align="center">A self-taught backend-developer from Russia 🇷🇺</h3>
+<h3 align="center">Backend-developer from Russia 🇷🇺</h3>
 
 <h3 align="center">Message me <a href=https://t.me/prudyvus_p>in Telegram</a></h3>
 
